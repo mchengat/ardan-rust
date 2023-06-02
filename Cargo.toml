@@ -10,5 +10,6 @@ edition = "2021"
 members = [
   "login",
   "auth",
-  "benchmark"
+  "benchmark",
+  "login_manager"
 ]
