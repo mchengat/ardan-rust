@@ -11,5 +11,6 @@ members = [
   "login",
   "auth",
   "benchmark",
-  "login_manager"
+  "login_manager",
+  "guessing_game"
 ]
